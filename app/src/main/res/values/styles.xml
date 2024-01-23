@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="numberKeypad">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/numberKeypadTextColor</item>
+        <item name="backgroundTint">@color/numberKeypadBackgroundColor</item>
+        <item name="android:fontFamily">@font/applesdgothicneoul</item>
+    </style>
+
+    <style name="operatorKeypad">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/operatorKeypadTextColor</item>
+        <item name="backgroundTint">@color/operatorKeypadBackgroundColor</item>
+        <item name="android:fontFamily">@font/applesdgothicneoul</item>
+    </style>
+
+    <style name="operatorClearKeypad">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/clearKeypadTextColor</item>
+        <item name="backgroundTint">@color/clearKeypadBackgroundColor</item>
+        <item name="android:fontFamily">@font/applesdgothicneoul</item>
+    </style>
+</resources>
